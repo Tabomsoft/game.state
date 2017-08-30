@@ -2,3 +2,8 @@
 	"android":"1",
 	"ios":"2"
 }
+/* 
+version
+1 : server is ok
+2 : server is stop
+*/
