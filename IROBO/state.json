@@ -1,6 +1,4 @@
-{	// version )
-	// 1 : server is ok
-	// 2 : server is stop
+{	
 	"android":"1",
 	"ios":"2"
 }
