@@ -9,4 +9,5 @@ tabomsoft game state
   + STATE, VERSION
 + RUSH
   + STATE, VERSION
-
++ IROBO2
+  + STATE, VERSION
